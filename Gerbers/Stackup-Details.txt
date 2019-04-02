@@ -1,0 +1,16 @@
+Expected PCB stack-up for 4 layer boards:
+
+
+1oz copper F.Cu
+
+0.2mm Prepreg
+
+0.25oz copper
+ In1.Cu
+1.2mm FR4 - Core
+
+0.25oz copper In2.Cu
+0.2mm Prepreg
+
+1oz copper
+ B.Cu
