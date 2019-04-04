@@ -1,6 +1,6 @@
 # [Open Hardware DSP Platform](http://www.ohdsp.org)
 ## CoreOne-xCORE200
-### Revision 2.0
+### Revision 2.1
 
 ---
 # README
@@ -22,7 +22,7 @@ This is a less cramped XMOS 200 based DSP and mirocontroller PCB design with USB
 This repository contains the KiCad design files, manufacturing Gerber/drill files, PDF/drawing files, and relevant documenation for this board.
 
 **Changelog**
-Revision 2.0b has the following changes over Revision 2.0:
+Revision 2.1 has the following changes over Revision 2.0:
 Added better grounding on power connector only, added extra vias.
 
 Revision 2.0 has the following changes over Revision 1.0:
