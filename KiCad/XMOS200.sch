@@ -1,13 +1,13 @@
 EESchema Schematic File Version 4
-LIBS:CoreOne-xCORE200-2.0-cache
+LIBS:CoreOne-xCORE200-2.1-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 8 8
 Title "CoreOne - xCORE200 Platform"
-Date "2019-04-02"
-Rev "2.0"
+Date "2019-04-04"
+Rev "2.1"
 Comp "Open Hardware DSP Platform - www.ohdsp.org"
 Comment1 "MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."
 Comment2 "is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"

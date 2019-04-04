@@ -22,6 +22,9 @@ This is a less cramped XMOS 200 based DSP and mirocontroller PCB design with USB
 This repository contains the KiCad design files, manufacturing Gerber/drill files, PDF/drawing files, and relevant documenation for this board.
 
 **Changelog**
+Revision 2.0b has the following changes over Revision 2.0:
+Added better grounding on power connector only, added extra vias.
+
 Revision 2.0 has the following changes over Revision 1.0:
 The ST1S40 regualtors have been replaced with RT7285C parts
 The CS2100 clock generator has been removed
