@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>F:\Dropbox\OHDSP\dev-CoreOne-xCORE200\KiCad\CoreOne-xCORE200-2.0.sch</source>
-    <date>02/04/2019 22:24:05</date>
+    <source>G:\OHDSP-2019\OHDSP\CoreOne-xCORE200-2.0\KiCad\CoreOne-xCORE200-2.1.sch</source>
+    <date>04/04/2019 19:07:50</date>
     <tool>Eeschema (5.1.0)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
-        <source>CoreOne-xCORE200-2.0.sch</source>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
+        <source>CoreOne-xCORE200-2.1.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
         <comment number="3" value="Licensed under the TAPR Open Hardware License (www.tapr.org/OHL). This documentation"/>
@@ -21,8 +21,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>PSU.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -34,8 +34,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>SPDIF.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -47,8 +47,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>Connectors.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -60,8 +60,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>Clock-CS2200.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -73,8 +73,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>Eth-KSZ8081.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -86,8 +86,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>Reset-NCP308.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -99,8 +99,8 @@
       <title_block>
         <title>CoreOne - xCORE200 Platform</title>
         <company>Open Hardware DSP Platform - www.ohdsp.org</company>
-        <rev>2.0</rev>
-        <date>2019-04-02</date>
+        <rev>2.1</rev>
+        <date>2019-04-04</date>
         <source>XMOS200.sch</source>
         <comment number="1" value="MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE."/>
         <comment number="2" value="is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF"/>
@@ -5183,7 +5183,7 @@
   </libparts>
   <libraries>
     <library logical="MyKiCadLibs-Lib">
-      <uri>F:\Dropbox\OHDSP\dev-CoreOne-xCORE200\KiCad/../../../KiCad-Libs/MyKiCadLibs-Lib.lib</uri>
+      <uri>G:\OHDSP-2019\OHDSP\CoreOne-xCORE200-2.0\KiCad/../../../KiCad-Libs/MyKiCadLibs-Lib.lib</uri>
     </library>
   </libraries>
   <nets>
